@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623519394291",
+    "project_id": "social-media-app-9fe4c",
+    "storage_bucket": "social-media-app-9fe4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623519394291:android:36c768d28abb67a4af8a86",
+        "android_client_info": {
+          "package_name": "com.renly_ralph.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623519394291-9n7m919u0eg8utkaqjqbpi9fc7j2o9gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_5sbtDbG88gnSncY5aj7AVnbs68NImQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623519394291-9n7m919u0eg8utkaqjqbpi9fc7j2o9gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
